@@ -1,0 +1,18 @@
+A template for an IEEE conference paper.
+(http://ras.papercept.net/conferences/support/tex.php)
+
+
+Features:
+
+    - IEEE styles are included.
+
+    - A fix for hyperlinks to bibliography entries is already applied.
+
+    - All temporary files are kept in 'tmp' subfolder.
+
+    - PDF file is named depending on the name of the folder.
+
+    - BSD and GNU make compatible.
+
+
+Refer to Makefile.mk for available make targets.
